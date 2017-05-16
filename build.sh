@@ -1,3 +1,2 @@
 meteor npm install
-meteor build
-
+meteor build tmp --server localhost:3000
